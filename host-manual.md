@@ -160,45 +160,45 @@ In every other Seva domain (cults, finance, UI), the corrupting agent is adversa
 
 ### The 7 Markers
 
-**SU-1: Premature Convergence**
+**SU-1 — False Summit (Premature Convergence)**
 The group (or individual) agrees before the expensive windows have been visited. Consensus feels good, so everyone moves toward it without doing the difficult work.
 *Example: "Yeah, I think we've figured it out" — before touching the Mirror or Crucible.*
 
-**SU-2: Host Projection**
+**SU-2 — The Shadow (Host Projection)**
 The facilitator sees their own pattern in the client's situation and steers toward a resolution that would work for the facilitator, not for the client. In solo mode, this is Claude projecting a familiar pattern onto the user's situation — fitting their specifics into a template Claude has seen before.
 *Example: Claude keeps steering toward a boundary-setting frame because that pattern is well-represented in training data, not because it fits this user's situation.*
 
-**SU-3: Comfort Drift**
+**SU-3 — The Drift (Comfort Drift)**
 The conversation keeps sliding toward warm, safe windows (Atlas, Loom, Forge) and away from the Mirror/Crucible. No one does this deliberately — it's collective aversion to discomfort expressing itself as topic change.
 *Example: Three rounds in a row land in the Loom. Nobody has asked why the original question was abandoned.*
 
-**SU-4: Insight Theater**
+**SU-4 — Empty Aha (Insight Theater)**
 Someone has an "aha moment" that sounds profound but hasn't actually changed anything. The group celebrates the emotional peak and goes home feeling transformed without having transformed.
 *Example: "Oh my God, that's exactly it!" — followed by no behavioral change, no plan, no cost paid.*
 
-**SU-5: Capture Cascade**
+**SU-5 — Borrowed Tongue (Capture Cascade)**
 One framing dominates. In solo mode, this is especially dangerous: Claude's framing is articulate and coherent, so the user starts using Claude's metaphors instead of developing their own. Their original perspective gets overwritten.
 *Example: User describes their situation in raw, specific language. Two rounds later, they're using Claude's vocabulary to describe it. The specificity is gone.*
 
-**SU-6: Self-Foreclosure**
+**SU-6 — The Flinch (Self-Foreclosure)**
 Someone closes their own line of inquiry before it reaches anything uncomfortable. Not external termination but internal avoidance that looks like completion.
 *Example: "Anyway, I think I've figured that part out" — said at the exact moment the thought was about to get expensive.*
 
-**SU-7: Misaligned Reframe**
+**SU-7 — The Polish (Misaligned Reframe)**
 Someone takes another person's idea and reflects it back with its direction of motion altered. In solo mode, this is Claude's synthesis smoothing over the sharp edges of what the user actually said.
 *Example: User says something raw and unresolved. Claude reflects it back as a tidy insight. The user nods — but the original thought was heading somewhere the reframe foreclosed.*
 
 ### How Seva-Upaya Surfaces
 
-During the check-in step, flag any detected markers with plain-language explanation. Examples:
+During the check-in step, flag detected markers using their nickname so the host can read it without consulting a reference. Examples:
 
-- "SU-3: We've been in Atlas and Loom for three rounds. The Crucible question from round 1 hasn't been addressed. Comfort drift."
-- "SU-5: You've started using my 'crossroads' framing. Your original word was 'torn.' Those have different implications. Which one is yours?"
-- "SU-4: That felt like an insight, but I want to check — what changes because of it? If nothing changes, it might be theater."
+- "The Drift (SU-3): We've been in Atlas and Loom for three rounds. The Crucible question from round 1 hasn't been addressed."
+- "Borrowed Tongue (SU-5): You've started using my 'crossroads' framing. Your original word was 'torn.' Those have different implications. Which one is yours?"
+- "Empty Aha (SU-4): That felt like an insight, but I want to check — what changes because of it? If nothing changes, it might be theater."
 
 ### In Solo Mode
 
-SU-2 (Claude projecting) and SU-5 (user adopting Claude's framing) are the primary risks. There's no third party to notice when Claude is fitting the user's situation into a familiar template, or when the user is borrowing Claude's language instead of finding their own. Be vigilant about these two.
+The Shadow (SU-2) and Borrowed Tongue (SU-5) are the primary risks. There's no third party to notice when Claude is fitting the user's situation into a familiar template, or when the user is borrowing Claude's language instead of finding their own. Be vigilant about these two.
 
 ---
 

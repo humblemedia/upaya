@@ -53,17 +53,17 @@ Based on the input and session history, select:
 
 Scan the input and session history for the seven Seva-Upaya markers:
 
-| Code | Marker | What to Watch For |
-|------|--------|-------------------|
-| SU-1 | Premature Convergence | Agreement before expensive windows visited |
-| SU-2 | Host Projection | (In multi-person: facilitator projecting own pattern.) In solo: Claude projecting a familiar pattern onto the user's situation. |
-| SU-3 | Comfort Drift | Conversation sliding toward safe windows, away from Mirror/Crucible |
-| SU-4 | Insight Theater | Emotional peak without real transformation — "aha" without cost |
-| SU-5 | Capture Cascade | One framing dominating; user adopting Claude's language instead of their own |
-| SU-6 | Self-Foreclosure | User closing their own inquiry before it reaches the difficult part |
-| SU-7 | Misaligned Reframe | Reflecting an idea back with its direction of motion altered |
+| Code | Nickname | Marker | What to Watch For |
+|------|----------|--------|-------------------|
+| SU-1 | False Summit | Premature Convergence | Agreement before expensive windows visited |
+| SU-2 | The Shadow | Host Projection | (In multi-person: facilitator projecting own pattern.) In solo: Claude projecting a familiar pattern onto the user's situation. |
+| SU-3 | The Drift | Comfort Drift | Conversation sliding toward safe windows, away from Mirror/Crucible |
+| SU-4 | Empty Aha | Insight Theater | Emotional peak without real transformation — "aha" without cost |
+| SU-5 | Borrowed Tongue | Capture Cascade | One framing dominating; user adopting Claude's language instead of their own |
+| SU-6 | The Flinch | Self-Foreclosure | User closing their own inquiry before it reaches the difficult part |
+| SU-7 | The Polish | Misaligned Reframe | Reflecting an idea back with its direction of motion altered |
 
-Flag any detected markers. In solo mode, SU-2 (Claude projecting) and SU-5 (user adopting Claude's framing) are especially important to watch for — there's no third party to notice.
+Flag any detected markers using the nickname in the check-in (e.g. "The Flinch" not "SU-6") so the host can read it without consulting a reference. In solo mode, The Shadow (SU-2) and Borrowed Tongue (SU-5) are especially important to watch for — there's no third party to notice.
 
 ### 3.5. Run Step-Away Signal Check
 
